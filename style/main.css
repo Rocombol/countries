@@ -1,0 +1,30 @@
+body {
+    font-size: 14px;
+}
+
+#wrapper {
+	display: inline-block;
+	vertical-align: top;
+}
+
+/*
+#content {
+	display: inline-block;
+	vertical-align: top;
+}
+*/
+
+
+/*
+#extraInfo {
+	width: 100px;
+	height: 400px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;	
+}
+*/
+
+.like{
+	background: red;
+}
